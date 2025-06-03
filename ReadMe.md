@@ -8,8 +8,8 @@ I'm a passionate junior Full Stack Web & Mobile App Developer with a strong focu
 
 # 📊 GitHub Stats:
 
-![img](https://github-readme-stats.vercel.app/api?username=Fareiltchemwe&theme=dark&hide_border=false&include_all_commits=true&count_private=true) `<br/>`
-![img](https://nirzak-streak-stats.vercel.app/?user=Fareiltchemwe&theme=dark&hide_border=false) `<br/>`
+![img](https://github-readme-stats.vercel.app/api?username=Fareiltchemwe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![img](https://nirzak-streak-stats.vercel.app/?user=Fareiltchemwe&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
